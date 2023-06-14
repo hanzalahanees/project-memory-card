@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/project-memory-card/static/css/main.3bd6b323.css",
+    "main.js": "/project-memory-card/static/js/main.1dc056b6.js",
+    "static/js/787.ce6dfba3.chunk.js": "/project-memory-card/static/js/787.ce6dfba3.chunk.js",
+    "static/media/sun.jpeg": "/project-memory-card/static/media/sun.250b30eb0dbef79f65c6.jpeg",
+    "static/media/rose.jpeg": "/project-memory-card/static/media/rose.f9785a8638c86fbddf02.jpeg",
+    "static/media/rust.jpeg": "/project-memory-card/static/media/rust.e4fda7efc054fb3583f9.jpeg",
+    "static/media/yellowFlower.jpeg": "/project-memory-card/static/media/yellowFlower.8cebd3260acfb368b9af.jpeg",
+    "static/media/tangerine.jpg": "/project-memory-card/static/media/tangerine.1cb1ee092a846b4af7aa.jpg",
+    "static/media/strawberry.jpg": "/project-memory-card/static/media/strawberry.6e08cb17d8b4d08df357.jpg",
+    "static/media/waterMellon.jpg": "/project-memory-card/static/media/waterMellon.64ac86d8eccccd633d3b.jpg",
+    "static/media/apple.jpg": "/project-memory-card/static/media/apple.834eb87696a2c71c420c.jpg",
+    "static/media/pear.jpg": "/project-memory-card/static/media/pear.888b10af4c2b05c7760a.jpg",
+    "static/media/mango.jpg": "/project-memory-card/static/media/mango.4d509f7b4bb951243408.jpg",
+    "static/media/orange.jpg": "/project-memory-card/static/media/orange.71066b77fa12979e8182.jpg",
+    "static/media/banana.jpg": "/project-memory-card/static/media/banana.596633765e7981aa4485.jpg",
+    "index.html": "/project-memory-card/index.html",
+    "main.3bd6b323.css.map": "/project-memory-card/static/css/main.3bd6b323.css.map",
+    "main.1dc056b6.js.map": "/project-memory-card/static/js/main.1dc056b6.js.map",
+    "787.ce6dfba3.chunk.js.map": "/project-memory-card/static/js/787.ce6dfba3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd6b323.css",
+    "static/js/main.1dc056b6.js"
+  ]
+}
